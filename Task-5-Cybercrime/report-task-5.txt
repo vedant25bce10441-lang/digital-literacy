@@ -1,0 +1,9 @@
+Case Study: UPI/Online Payment Fraud
+
+UPI/Online Payment Fraud is a common type of cybercrime where attackers trick users into sending money or revealing sensitive banking details. With the rise of digital payments, such frauds have increased significantly, especially among students and new users of online banking.
+
+A typical fraud begins when the attacker contacts the victim through a phone call, SMS, or messaging app, pretending to be a bank official, customer support agent, or even a known contact. First, they create a sense of urgency, such as claiming that the victim’s account will be blocked or that they have won a reward. Next, they send a fake payment link or request and instruct the victim to enter their UPI PIN or OTP. In some cases, they ask the victim to approve a “collect request,” which actually transfers money from the victim’s account.
+
+Common targets include students, elderly people, and individuals unfamiliar with digital payment systems. The consequences can be severe, including financial loss, stress, and loss of trust in online services. In some cases, victims are unable to recover their money.
+
+This type of fraud can be prevented by never sharing OTPs or UPI PINs, verifying the identity of callers, and understanding that receiving money does not require entering a PIN. Awareness and careful usage of digital platforms are essential to avoid such cybercrimes.

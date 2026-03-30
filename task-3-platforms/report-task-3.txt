@@ -1,0 +1,7 @@
+Project Report
+
+For this task, I used Google Forms to create a “Digital Literacy Awareness Quiz” for my batchmates. Google Forms is a free and easy-to-use tool that allows users to design quizzes, collect responses, and automatically organize data. I created a form with five questions, including multiple-choice and short-answer types, to test basic understanding of digital literacy concepts such as online safety, digital tools, and responsible internet use.
+
+While working on this task, I practiced creating structured questions, setting answer formats, and linking the form responses to Google Sheets for analysis. I also learned how to customize the form’s appearance and share it through a link, which I added to my README file. Viewing responses in Google Sheets helped me understand how data can be collected and analyzed efficiently.
+
+These tools will be very helpful in my academic journey. Google Forms can be used for surveys, quizzes, and feedback collection, while Google Sheets helps in organizing and analyzing data. Together, they improve productivity, support research work, and enhance digital literacy skills that are essential for both studies and future professional tasks.

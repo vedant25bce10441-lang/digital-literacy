@@ -1,0 +1,51 @@
+Project Report-1
+
+For this task, I used Canva as my design tool to create a single infographic. Canva is a free and user-friendly platform that offers a variety of templates, icons, and design elements, which made the process smooth and creative.
+
+My infographic covers three main topics: digital literacy, useful digital tools for students, and safe internet practices. In the digital literacy section, I explained how it involves the ability to find, evaluate, and use information online effectively. For useful digital tools, I included examples like Google Docs, Zoom, and educational apps that help students collaborate and learn efficiently. In the safe internet practices section, I highlighted tips such as using strong passwords, avoiding suspicious links, and protecting personal information.
+
+One interesting aspect of this project was experimenting with different layouts and color combinations to make the infographic visually appealing while still easy to understand. However, I found it slightly challenging to balance the amount of information and design elements without making the slide look too crowded.
+
+Overall, this task helped me improve both my digital design skills and understanding of important online practices.
+
+Project Report-2
+
+For this task, I created and updated my profiles on three platforms: GitHub, LinkedIn, and Kaggle. Each of these platforms serves a different purpose and is useful for students in the technology field.
+
+GitHub is mainly used for hosting and sharing code. I created a profile README that includes my name, branch, year, and a short statement about my learning goals. I plan to use GitHub over the next four years to store my projects, collaborate with others, and build a strong coding portfolio.
+
+LinkedIn is a professional networking platform. I updated my Education section with my current degree, institution, and expected graduation year. In the future, I aim to connect with professionals, showcase my achievements, and explore internship opportunities through LinkedIn.
+
+Kaggle is a platform for data science and machine learning. It provides datasets and competitions that help improve analytical skills. I plan to use Kaggle to practice data analysis, participate in competitions, and learn new techniques.
+
+Overall, these platforms will help me develop my skills, build a professional identity, and prepare for my future career.
+
+
+Project Report-3
+
+For this task, I used Google Forms to create a “Digital Literacy Awareness Quiz” for my batchmates. Google Forms is a free and easy-to-use tool that allows users to design quizzes, collect responses, and automatically organize data. I created a form with five questions, including multiple-choice and short-answer types, to test basic understanding of digital literacy concepts such as online safety, digital tools, and responsible internet use.
+
+While working on this task, I practiced creating structured questions, setting answer formats, and linking the form responses to Google Sheets for analysis. I also learned how to customize the form’s appearance and share it through a link, which I added to my README file. Viewing responses in Google Sheets helped me understand how data can be collected and analyzed efficiently.
+
+These tools will be very helpful in my academic journey. Google Forms can be used for surveys, quizzes, and feedback collection, while Google Sheets helps in organizing and analyzing data. Together, they improve productivity, support research work, and enhance digital literacy skills that are essential for both studies and future professional tasks.
+
+
+Project Report-4
+
+One situation where poor digital communication caused a problem is when a student sent an email to a professor using informal language and unclear wording. The message lacked a proper subject line and did not clearly explain the issue, which led to confusion and a delayed response. As a result, the student missed an important deadline.
+
+This situation highlights the importance of clear and professional communication in digital platforms. The student could have written a proper subject line, used polite language, and explained the problem in a structured way. Proofreading the message before sending would also have helped avoid misunderstandings.
+
+Effective digital communication ensures that messages are understood correctly and helps maintain a positive impression. It is especially important in academic and professional environments where clarity and professionalism are expected.
+
+
+
+
+
+Project Report-5
+
+While researching cybercrime and online safety, what surprised me most was how simple tricks are often used to scam people. Many frauds do not involve advanced technology but rely on human mistakes, such as sharing OTPs or clicking on fake links. It was interesting to learn that even educated users can fall victim if they are not careful.
+
+One habit I will personally change is being more cautious before clicking on any link or responding to unknown messages. Earlier, I did not always verify the source of links, especially on messaging apps. Now, I understand the importance of checking authenticity before taking any action.
+
+This task helped me realize that staying safe online requires awareness and small daily precautions. Developing these habits can prevent major financial and personal losses in the future.
